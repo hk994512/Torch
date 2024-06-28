@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.codeLensFontFamily": "Source code Pro",
+    "editor.experimentalInlineEdit.fontFamily": "Source Code Pro",
+    "editor.inlayHints.fontFamily": "Source Code Pro",
+    "editor.fontWeight": "normal",
+    "notebook.output.fontFamily": "Fira Code",
+    "notebook.markup.fontSize": 0,
+    "editor.fontSize": 24
+}
